@@ -12,3 +12,5 @@ git reset peruutaa paikalliset muutokset repositoriossa
 kytke paikallinen repositorio ympäristäöön vetämällä se repositoriosta
 forkataksesi toisen henilön repositorion klikkaa fork nappia sivulla
 upstrean viittaa alkuperäiseen ropositorioon jonka forkkasit
+
+![alt text](https://github.com/severi12345/Markdown/blob/main/yzen2uo7qy151.jpg?raw=true)
