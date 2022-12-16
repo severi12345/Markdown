@@ -13,6 +13,10 @@ kytke paikallinen repositorio ympäristäöön vetämällä se repositoriosta
 forkataksesi toisen henilön repositorion klikkaa fork nappia sivulla
 upstrean viittaa alkuperäiseen ropositorioon jonka forkkasit
 
+´´´´
+Print("Hello World!")
+´´´´
+
 Klikkaa [TÄSTÄ](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley).
 
 ![alt text](https://github.com/severi12345/Markdown/blob/main/yzen2uo7qy151.jpg?raw=true)
